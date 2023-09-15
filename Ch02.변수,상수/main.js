@@ -111,7 +111,7 @@ var 키워드
 
 console.log(temp) // 변수 선언 전에 사용
 var temp = 1;
-var temp = 2; // 변수 선언을 여러번 함
+var temp = 2; // 변수 선언을 여러번 함a
 
 if(true){
     var temp2 = 3;
